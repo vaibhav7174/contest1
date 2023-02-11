@@ -1,0 +1,18 @@
+p{
+    margin-left: 38px;
+    padding: 29px;
+}
+h1{
+    font: 64px;
+    margin-left: 38px;
+}
+a button{
+ background-color: black;
+ color: white;
+ width: 100px;
+ height: 30px;
+ margin-left: 38px;    
+}
+.ul{
+    padding: 0;
+}
